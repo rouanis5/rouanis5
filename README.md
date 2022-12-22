@@ -1,5 +1,9 @@
+<img src="https://scontent.falg5-2.fna.fbcdn.net/v/t1.18169-9/19875493_1920722218202016_3987255829419510825_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFTp2mNw6DT9Idnk3DX0IMxGqkJVHo-rjcaqQlUej6uNx8rjLZwzAhxZH0ozqkM13YKgC6k02bfk9KB7Ig-239a&_nc_ohc=xXnJ4M31vXYAX-Hz9QU&_nc_ht=scontent.falg5-2.fna&oh=00_AfBgAqFLrpM5LTdoyPbm2-vUi0rPpYOVsLNcvTHXsWbgVQ&oe=63CC0AA6" width="100%">
 <h1 align="center">Hi 👋, I'm Mohamed Ouanis IDJA</h1>
-<h3 align="center">CS student & a passionate Fullstack developer from Algeria</h3>
+<h3 align="center">CS student & passionate Fullstack developer from Algeria</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
@@ -13,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/mohamed-ouanis-idja-188487202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ouanis-idja-188487202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
