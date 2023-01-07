@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, expressJS and MongoDB**
+- 🌱 I’m currently learning **advanced NodeJS**
 
-- 💬 Ask me about **javaSript and React**
+- 💬 Ask me about **javaScript and React**
 
 - 📫 How to reach me **ouanis42@gmail.com**
 
