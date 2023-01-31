@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
-- 🌱 I’m currently learning **advanced NodeJS**
+- 🌱 I’m currently learning **React query**
 
-- 💬 Ask me about **javaScript and React**
+- 💬 Ask me about **javaScript, React & NodeJS**
 
 - 📫 How to reach me **ouanis42@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I thought I was funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
