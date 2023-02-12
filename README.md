@@ -1,4 +1,4 @@
-<img src="https://scontent.falg5-2.fna.fbcdn.net/v/t1.18169-9/19875493_1920722218202016_3987255829419510825_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeFTp2mNw6DT9Idnk3DX0IMxGqkJVHo-rjcaqQlUej6uNx8rjLZwzAhxZH0ozqkM13YKgC6k02bfk9KB7Ig-239a&_nc_ohc=xXnJ4M31vXYAX-Hz9QU&_nc_ht=scontent.falg5-2.fna&oh=00_AfBgAqFLrpM5LTdoyPbm2-vUi0rPpYOVsLNcvTHXsWbgVQ&oe=63CC0AA6" width="100%">
+<img src="./cover.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Mohamed Ouanis IDJA</h1>
 <h3 align="center">CS student & passionate Fullstack developer from Algeria</h3>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React query**
 
-- 💬 Ask me about **javaScript, React & NodeJS**
+- 💬 Ask me about **javascript, React & NodeJS**
 
 - 📫 How to reach me **ouanis42@gmail.com**
 
