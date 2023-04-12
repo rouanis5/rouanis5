@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently **busy**
 
+- I'm learning **Docker** 
+
 - 💬 Ask me about **Javascript, Typescript, React & NodeJS**
 
 - 📫 How to reach me **ouanis42@gmail.com**
