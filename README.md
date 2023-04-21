@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
+- 🐧 Work on **Fedora 37**
+
 - 🌱 I’m currently **learning Docker** 
 
 - 💬 Ask me about **Javascript, Typescript, React & NodeJS**
