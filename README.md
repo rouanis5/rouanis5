@@ -9,7 +9,7 @@
 
 - 🌱 Work on **Wareed project**
 
-- 🌱 I’m currently **learning Docker** 
+<!-- - 🌱 I’m currently **learning Docker**  -->
 
 - 💬 Ask me about **Javascript, Typescript, React & NodeJS**
 
