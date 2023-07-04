@@ -11,8 +11,6 @@
 
 - 😔 Searching for **a mechanical keyboard**
 
-- 🤔 Interrested on **web 3 and blockchain**
-  
 - 🌱 Work on **Wareed project**
 
 - 💬 Ask me about **Typescript, React & NodeJS**
