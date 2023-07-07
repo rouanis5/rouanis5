@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently **learning NextJS, Kubernates, reenforcing GraphQL**
 
-- 😔 Searching for **a mechanical keyboard**
-
 - 🌱 Work on **Wareed project**
 
 - 💬 Ask me about **Typescript, React & NodeJS**
