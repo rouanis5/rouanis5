@@ -1,6 +1,6 @@
 <img src="./cover.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Wanis</h1>
-<h3 align="center">CS student & passionate Fullstack developer from Algeria</h3>
+<h3 align="center">Graduated CS student & Fullstack developer from Algeria</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
