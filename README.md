@@ -11,6 +11,8 @@
 
 - 🌱 Work on **Wareed project**
 
+- 👋 interested on **web3 and AI**
+
 - 💬 Ask me about **Typescript, React & NodeJS**
 
 - 📫 How to reach me **ouanis42@gmail.com**
