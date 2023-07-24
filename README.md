@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
-- 🌱 I’m currently **learning NextJS, Kubernates, reenforcing GraphQL**
+- 🌱 I’m currently **learning NestJS, SOLID principles**
 
-- 🌱 Work on **Wareed project**
-
-- 👋 interested on **web3 and AI**
+- 🌱 Work on **Wareed project** and some **University stuffs**
 
 - 💬 Ask me about **Typescript, React & NodeJS**
 
