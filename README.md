@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **learning NestJS, SOLID principles**
 
-- 🌱 Work on **Wareed project** and some **University stuffs**
+<!-- 🌱 Work on **Wareed project** and some **University stuffs** -->
 
 - 💬 Ask me about **Typescript, React & NodeJS**
 
