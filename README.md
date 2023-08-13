@@ -7,12 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
-- 🌱 I’m currently **learning NestJS, SOLID principles**
+- 🌱 I’m currently **learning NestJS, vim**
 
 <!-- 🌱 Work on **Wareed project** and some **University stuffs** -->
 
 - 💬 Ask me about **Typescript, React & NodeJS**
 
+- 📅 Future plans **Algorithms and data structure with JAVA & software design**
+  
 - 📫 How to reach me **ouanis42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
