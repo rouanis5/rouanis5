@@ -1,19 +1,19 @@
 <img src="./cover.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Wanis</h1>
-<h3 align="center">Graduated CS student & Fullstack developer from Algeria</h3>
+<h3 align="center">CS student & Fullstack developer from Algeria</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouanis5&label=Profile%20views&color=0e75b6&style=flat" alt="rouanis5" /> </p>
 
-- 🌱 I’m currently **learning NestJS, vim**
+- 🌱 I’m currently **learning Advanced Algorithms & Software design**
 
 <!-- 🌱 Work on **Wareed project** and some **University stuffs** -->
 
 - 💬 Ask me about **Typescript, React & NodeJS**
 
-- 📅 Future plans **Algorithms and data structure with JAVA & software design**
+- 📅 Future plans: **AWS or Machine learning**
   
 - 📫 How to reach me **ouanis42@gmail.com**
 
