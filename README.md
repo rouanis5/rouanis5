@@ -6,7 +6,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on **portfolio**<br>🌱 I’m currently learning **Discrete Mathematics**<br>💬 Ask me about **typescript, react, svelte & nodeJs**<br>⚡ Fun fact **Adult cats only meow to humans, not other cats**
+🔭 I’m currently **bored**<br>💬 Ask me about **typescript, react, svelte & nodeJs**<br>⚡ Fun fact **Adult cats only meow to humans, not other cats**
 
 
 ## 🌐 Socials:
