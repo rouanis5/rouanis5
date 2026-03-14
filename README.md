@@ -4,7 +4,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently **waiting...**<br>💬 Ask me about **typescript, react, svelte & nodeJs**<br>⚡ Fun fact **The fear of long words is called Hippopotomonstrosesquippedaliophobia**
+🔭 I’m currently **crafting something**<br>💬 Ask me about **typescript, react, nodejs & nestJs**
 
 
 ## 🌐 Socials:
@@ -15,8 +15,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
