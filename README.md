@@ -49,12 +49,12 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Coolify](https://img.shields.io/badge/coolify-000000?style=for-the-badge&logo=coolify&logoColor=white)
 
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=code&logoColor=white)
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rouanis5&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rouanis5&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
